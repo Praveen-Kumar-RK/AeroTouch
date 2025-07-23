@@ -43,17 +43,12 @@ AeroTouch is an innovative wearable device that enables users to type using **fi
 
 ---
 
-## 📚 Documentation
-
-- Project Report: [📄 Available in `Documentation/`](./Documentation)
-- Research, design decisions, and STEEP analysis included
-
----
-
 ## 🤝 Contributors
 
-- **Praveen Kumar** – Project Lead  
-- Team Members – [Add names if you'd like]
+- Praveen Kumar R K
+- Suchismita Acharya
+- Naksha A Vini
+- Nizora R
 
 ---
 
